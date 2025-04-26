@@ -28,6 +28,16 @@ Here's a walkthrough of implemented features:
 
 <img src='https://www.loom.com/embed/957d0c106461445f9c239ac73960ed6c?sid=4488c946-727d-439b-b672-10961095d108' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<div>
+  <a href="https://www.loom.com/share/957d0c106461445f9c239ac73960ed6c">
+    <p>‎127.0.0.1:5500/index.html - 25 April 2025 - Watch Video</p>
+  </a>
+  <a href="https://www.loom.com/share/957d0c106461445f9c239ac73960ed6c">
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/957d0c106461445f9c239ac73960ed6c-c3a1c3b420c85536-full-play.gif" alt="Video Walkthrough">
+  </a>
+</div>
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom
 <!-- Recommended tools:
