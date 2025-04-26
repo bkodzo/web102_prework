@@ -23,11 +23,6 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[![Video Walkthrough](https://www.loom.com/embed/957d0c106461445f9c239ac73960ed6c?sid=4488c946-727d-439b-b672-10961095d108)](https://www.loom.com/share/957d0c106461445f9c239ac73960ed6c)
-
-
-<img src='https://www.loom.com/embed/957d0c106461445f9c239ac73960ed6c?sid=4488c946-727d-439b-b672-10961095d108' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <div>
   <a href="https://www.loom.com/share/957d0c106461445f9c239ac73960ed6c">
     <p>‎127.0.0.1:5500/index.html - 25 April 2025 - Watch Video</p>
